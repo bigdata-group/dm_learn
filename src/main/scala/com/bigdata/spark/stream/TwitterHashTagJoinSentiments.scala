@@ -1,4 +1,4 @@
-package com.yonyou.spark.stream
+package com.bigdata.spark.stream
 
 import org.apache.spark.streaming.{Seconds, StreamingContext}
 import org.apache.spark.SparkContext._

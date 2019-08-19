@@ -1,4 +1,4 @@
-package com.yonyou.spark.ml
+package com.bigdata.spark.ml
 
 import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.ml.Pipeline

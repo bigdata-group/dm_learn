@@ -1,4 +1,4 @@
-package com.yonyou.spark.sql
+package com.bigdata.spark.sql
 
 import java.util.UUID
 

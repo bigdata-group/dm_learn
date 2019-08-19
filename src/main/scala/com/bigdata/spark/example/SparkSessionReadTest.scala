@@ -1,4 +1,4 @@
-package com.yonyou.spark.example
+package com.bigdata.spark.example
 
 import java.util.Properties
 

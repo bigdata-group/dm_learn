@@ -1,4 +1,4 @@
-package com.yonyou.spark.example
+package com.bigdata.spark.example
 
 // 私有构造方法
 class Marker private(val color:String) {

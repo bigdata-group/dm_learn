@@ -1,4 +1,4 @@
-package com.yonyou.spark.sql
+package com.bigdata.spark.sql
 
 import org.apache.spark.sql.types.IntegerType
 import org.apache.spark.sql.{SQLContext, SaveMode, SparkSession}

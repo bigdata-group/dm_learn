@@ -1,4 +1,4 @@
-package com.yonyou.spark.ml
+package com.bigdata.spark.ml
 
 import org.apache.spark._
 import org.apache.spark.rdd.RDD

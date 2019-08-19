@@ -1,12 +1,10 @@
-package com.yonyou.spark.ml
+package com.bigdata.spark.ml
 
 /**
   * 聚类K-Means算法
   * Created by jiwenlong on 2017/4/11.
   * http://www.cnblogs.com/zhzhang/p/5437778.html
   */
-package com.eric.spark.mllib.kmeans
-
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.mllib.clustering.KMeans
 import org.apache.spark.mllib.linalg.Vectors
